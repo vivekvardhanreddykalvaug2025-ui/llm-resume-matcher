@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+Resume_dataset.csv
+clean_resume_data.csv
+job_descriptions.csv
+05_person_skills.csv

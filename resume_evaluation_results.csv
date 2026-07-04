@@ -1,0 +1,54 @@
+Rank,Resume ID,Skills,Experience,Education,Domain,Keyword,Resume Quality,Final Score,Recommendation,Evaluation
+1,156,20,15,10,10,8,6,69,"The candidate has a strong foundation in programming skills, particularly in Python, and also has experience with SQL, which is a requirement for the Data Scientist Intern position. The candidate's education background in Master of Science in Computer Science is also relevant. However, the candidate's experience is mostly in internships and tutoring, which may not be directly applicable to the data scientist role. Additionally, the resume could be improved in terms of clarity and organization. Overall, I would recommend inviting the candidate for an interview to further assess their skills and experience, but also considering other candidates with more direct experience in data science.","Skills Score: 20
+Experience Score: 15
+Education Score: 10
+Domain Score: 10
+Keyword Score: 8
+Resume Quality Score: 6
+
+Final Score: 69/100
+
+Recommendation:
+The candidate has a strong foundation in programming skills, particularly in Python, and also has experience with SQL, which is a requirement for the Data Scientist Intern position. The candidate's education background in Master of Science in Computer Science is also relevant. However, the candidate's experience is mostly in internships and tutoring, which may not be directly applicable to the data scientist role. Additionally, the resume could be improved in terms of clarity and organization. Overall, I would recommend inviting the candidate for an interview to further assess their skills and experience, but also considering other candidates with more direct experience in data science."
+2,169,20,10,15,10,8,6,69,"The candidate has a strong educational background and some relevant skills, including Python, SQL, and Java. However, the experience is mostly unrelated to data science, and the resume quality could be improved for better clarity and focus on data science skills. I would recommend inviting the candidate for an interview to further assess their skills and potential, but also considering other candidates with more direct experience in data science.","Skills Score: 20
+Experience Score: 10
+Education Score: 15
+Domain Score: 10
+Keyword Score: 8
+Resume Quality Score: 6
+
+Final Score: 69/100
+
+Recommendation: The candidate has a strong educational background and some relevant skills, including Python, SQL, and Java. However, the experience is mostly unrelated to data science, and the resume quality could be improved for better clarity and focus on data science skills. I would recommend inviting the candidate for an interview to further assess their skills and potential, but also considering other candidates with more direct experience in data science."
+3,71,10,10,10,5,5,5,45,"The candidate has some relevant skills such as SQL and database administration experience, but lacks direct experience in Python and Machine Learning, which are key requirements for the Data Scientist Intern role. Additionally, the candidate's experience is more focused on database administration rather than data science. The candidate's education and resume quality are satisfactory, but the overall match for the role is not strong. I would recommend considering other candidates with more direct experience in data science and machine learning, but this candidate may be worth further consideration or discussion to assess their potential and willingness to learn.","Skills Score: 10
+Experience Score: 10
+Education Score: 10
+Domain Score: 5
+Keyword Score: 5
+Resume Quality Score: 5
+
+Final Score: 45/100
+
+Recommendation:
+The candidate has some relevant skills such as SQL and database administration experience, but lacks direct experience in Python and Machine Learning, which are key requirements for the Data Scientist Intern role. Additionally, the candidate's experience is more focused on database administration rather than data science. The candidate's education and resume quality are satisfactory, but the overall match for the role is not strong. I would recommend considering other candidates with more direct experience in data science and machine learning, but this candidate may be worth further consideration or discussion to assess their potential and willingness to learn."
+4,26,10,10,10,5,5,5,45,"The candidate does not seem to be a strong fit for the Data Scientist Intern position at ABC Technologies. Although they have some relevant skills like Python and SQL, their experience and education background do not align well with the job requirements. The candidate's resume also lacks clarity and focus on data science-related skills and experiences. Additionally, the resume appears to be a collection of unrelated keywords and job titles, which makes it difficult to assess the candidate's true qualifications. I would not recommend moving forward with this candidate at this time.","Skills Score: 10
+Experience Score: 10
+Education Score: 10
+Domain Score: 5
+Keyword Score: 5
+Resume Quality Score: 5
+
+Final Score: 45/100
+
+Recommendation:
+The candidate does not seem to be a strong fit for the Data Scientist Intern position at ABC Technologies. Although they have some relevant skills like Python and SQL, their experience and education background do not align well with the job requirements. The candidate's resume also lacks clarity and focus on data science-related skills and experiences. Additionally, the resume appears to be a collection of unrelated keywords and job titles, which makes it difficult to assess the candidate's true qualifications. I would not recommend moving forward with this candidate at this time."
+5,33,5,10,10,5,2,4,36,"The candidate does not seem to be a strong fit for the Data Scientist Intern position at ABC Technologies. Although they have a Bachelor's Degree, their skills and experience do not align well with the job requirements, which emphasize Python, Machine Learning, and SQL. The candidate's background appears to be more focused on security, network infrastructure, and web development. I would not recommend moving forward with this candidate for the Data Scientist Intern role.","Skills Score: 5
+Experience Score: 10
+Education Score: 10
+Domain Score: 5
+Keyword Score: 2
+Resume Quality Score: 4
+
+Final Score: 36/100
+
+Recommendation: The candidate does not seem to be a strong fit for the Data Scientist Intern position at ABC Technologies. Although they have a Bachelor's Degree, their skills and experience do not align well with the job requirements, which emphasize Python, Machine Learning, and SQL. The candidate's background appears to be more focused on security, network infrastructure, and web development. I would not recommend moving forward with this candidate for the Data Scientist Intern role."

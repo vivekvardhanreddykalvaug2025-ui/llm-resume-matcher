@@ -1,0 +1,14 @@
+{
+    "job_id": "JD001",
+    "title": "Data Scientist Intern",
+    "company": "ABC Technologies",
+    "location": "Bangalore",
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+    ],
+    "experience": "0-1 years",
+    "education": "Bachelor's Degree",
+    "description": "Looking for a Data Scientist Intern with strong Python and SQL skills."
+}
