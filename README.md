@@ -57,8 +57,12 @@ The system processes 5,000 resumes and matches them against 10 sample job descri
 | Resume Quality | 5% |
 
 ## Visualization 
-Several visualization techniques were used to analyse and interpret the performance of the proposed resume screening system. 
-Cosine Similarity Heatmap: Visualizes the semantic similarity between candidate resumes and selected job descriptions, demonstrating the effectiveness of vector-based retrieval.  
+Several visualization techniques were used to analyse and interpret the performance of the proposed resume screening system.
+
+ 
+Cosine Similarity Heatmap: Visualizes the semantic similarity between candidate resumes and selected job descriptions, demonstrating the effectiveness of vector-based retrieval.
+
+  
 Candidate Ranking Bar Chart: Displays the final match scores of shortlisted candidates for each job description, enabling recruiters to compare candidate suitability visually
 
 
